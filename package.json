@@ -1,0 +1,17 @@
+{
+  "name": "dicoding-nodejs-web-server",
+  "version": "1.0.0",
+  "description": "Belajar Membuat Aplikasi Back-End untuk Pemula",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "dicoding",
+    "nodejs",
+    "backend"
+  ],
+  "author": "Fadhli Syaifullah <me@fadhli.dev>",
+  "license": "ISC"
+}
